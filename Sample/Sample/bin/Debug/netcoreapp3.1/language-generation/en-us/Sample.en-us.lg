@@ -1,0 +1,37 @@
+[import](common.lg)
+
+# SendActivity_Greeting()
+[Activity
+    Text = ${SendActivity_Greeting_text()}
+]
+
+# SendActivity_DidNotUnderstand()
+[Activity
+    Text = ${SendActivity_DidNotUnderstand_text()}
+]
+
+# SendActivity_DidNotUnderstand_text()
+- Sorry, I didn't get that.
+# SendActivity_kDfd5e()
+[Activity
+    Text = You should visit the castle!
+]
+
+# SendActivity_Greeting_text()
+- Welcome to Leiria!
+- Hello and welcome to Leiria!
+# SendActivity_vnJ0jy()
+[Activity
+    Text = ${SendActivity_vnJ0jy_text()}
+]
+
+# SendActivity_vnJ0jy_text()
+- The ticket to visit the castle costs 2,10 euros.
+- You can buy a ticket for 2 euros and 10 cents
+# CastleIntro()
+[HeroCard    
+    title = Leiria's Castle  
+    text = It's a pretty castle    
+]
+# SendActivity_vhaMT1()
+- ${CastleIntro()}
