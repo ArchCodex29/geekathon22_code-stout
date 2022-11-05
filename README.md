@@ -8,3 +8,5 @@ A project for a companion app about events @ Leiria
 
 ## Components (ideally)
  - Webpage / Mobile App
+ - BD with event data
+ - Integration with cm-leiria and mobilis (for example) to gather data
