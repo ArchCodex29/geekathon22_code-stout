@@ -4,13 +4,27 @@ A project for a companion app about events @ Leiria
 
 ## The idea
 
-Trip Recommendation and Planning (Companion) App
+### Problem(s) in question
 
-As a user, I want to plan a trip as fast as possible. I waste too much time booking hotels, plan and schedule the itenerary of the trip and commute. Sometimes I also don't know the events or places of interest, so I waste more time checking those for each city or destination of the trip. Aligning the vacation time for the trip.
+* As a user, when I arrive at a city or a place, if I have questions, I don't know where to turn, whether it is to get information on my current location, or to find shops that sell souvenirs that I'm interested.
 
-Story: As a user, i want to plan a trip as fast as possible, so i can save as much time for the trip.
+### Solution(s)
 
-## Why ? 
+* Virtual assistant, in the form of chat or TTS bot to help locals or tourists get around the city. Make the city come alive and have a local (virtual) guide at all times.
+
+#### Questions by topic
+
+* Monuments/Culture Sites
+  * What are the main attractions (of the city) ?
+    * Follow up: Tell me more information about the castle ?
+      * Extra: Can I read more about it ?
+* General Information
+  * What's the population (of the city/district) ?
+    * Extra: More info(rmation) ? (Link)
+* Souvenirs
+  * Where can I buy some souvenirs ?
+  * Are there any shops/stores, around that i can buy some souvenirs ? (Location-based)
+* ...
 
 ## Components (ideally)
  - Webpage / Mobile App
