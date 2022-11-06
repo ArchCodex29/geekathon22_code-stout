@@ -31,7 +31,8 @@
 # CastleIntro()
 [HeroCard    
     title = Leiria's Castle  
-    text = It's a pretty castle    
+    text = It is a medieval castle built by D.Afonso Henriques for the purpose of creating a line of defense against the arabs. In 1142 he reinforced the defense of the castle after regaining Leiria. Throughout the centuries the castle gradually lost its military value and it was badly damaged during the french invasion the restoration project was directed by Ernesto Korrodi between 1921 and 1933 and then by Baltazar Vastro.    
+    image = https://upload.wikimedia.org/wikipedia/commons/1/10/CASTELO_DE_LEIRIA.jpg
 ]
 # SendActivity_vhaMT1()
 - ${CastleIntro()}
