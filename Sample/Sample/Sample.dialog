@@ -116,7 +116,8 @@
                       },
                       "activity": "${SendActivity_vhaMT1()}"
                     }
-                  ]
+                  ],
+                  "elseActions": []
                 }
               ]
             }
