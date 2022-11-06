@@ -117,7 +117,24 @@
                       "activity": "${SendActivity_vhaMT1()}"
                     }
                   ],
-                  "elseActions": []
+                  "elseActions": [
+                    {
+                      "$kind": "Microsoft.IfCondition",
+                      "$designer": {
+                        "id": "SWRQd2"
+                      },
+                      "condition": "=contains(turn.activity.text, \"buy\") == true",
+                      "actions": [
+                        {
+                          "$kind": "Microsoft.SendActivity",
+                          "$designer": {
+                            "id": "2qTOXK"
+                          },
+                          "activity": "${SendActivity_2qTOXK()}"
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }

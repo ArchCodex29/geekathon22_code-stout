@@ -36,3 +36,8 @@
 ]
 # SendActivity_vhaMT1()
 - ${CastleIntro()}
+
+# SendActivity_2qTOXK()
+[Activity
+    Text = There is a shop nearby named "Pontos e nós" that sells all kinds of gifts, in R. Capitao Mouzinho de Albuquerque 57
+]
